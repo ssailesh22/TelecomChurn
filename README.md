@@ -5,4 +5,4 @@ For many incumbent operators, retaining high profitable customers is the number 
 In this project, I will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
 
 ## In this Repository
-This Repo contains an ipynb file that has the entire case study from EDA to building and valuating machine learning models
+This Repo contains an ipynb file that has the entire case study from EDA to building and evaluating machine learning models
